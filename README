@@ -1,0 +1,5 @@
+Work in Progress
+
+Scrape the Joindin API for OpenWest talks, then present them in
+a "What's happening now" and "What's next" format through a
+Mojolicious::Lite app.
